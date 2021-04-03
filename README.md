@@ -1,4 +1,5 @@
-
+# [機器學習] 離群值處理
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/python-outliers-clean/blob/main/example.ipynb)
 ## 前言
 Data Preprocessing(資料前處理)，是機器學習中最重要的一部分。本篇文章中可分為兩部份，前半部份算是一些對資料的觀察、分析(EDA)，後半部主要是針對特徵x進行離群值處理。
 
