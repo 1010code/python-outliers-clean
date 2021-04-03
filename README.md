@@ -80,6 +80,7 @@ plt.show()
 ```
 
 ![](./screenshot/img1100402-5.png)
+
 偏態(Skewness): -0.64
 
 > 處理右偏的資料可以參考[這篇](https://medium.com/%E4%BA%82%E9%BB%9E%E6%8A%80%E8%83%BD%E6%A8%B9%E7%9A%84%E4%BA%BA%E7%94%9F/5%E7%A8%AE%E4%BF%AE%E6%AD%A3%E8%B3%87%E6%96%99%E5%81%8F%E6%85%8B%E7%9A%84%E6%96%B9%E6%B3%95%E5%8F%8A%E5%85%B6python%E6%87%89%E7%94%A8-c387c4f32ebe)文章
@@ -111,4 +112,5 @@ Shape Of The After Ouliers:  (2897, 1)
 ```
 
 ![](./screenshot/img1100402-6.png)
+
 偏態(Skewness): -0.46
